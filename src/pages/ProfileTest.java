@@ -1,6 +1,6 @@
 package pages;
 
-public class HomePages {
+public class ProfileTest {
 	public void getTitleOfPAge() {
 	System.out.println("Title of page");
 }
