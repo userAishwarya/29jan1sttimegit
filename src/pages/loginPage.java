@@ -3,7 +3,7 @@ package pages;
 public class loginPage {
  public void loginToApp() {
 	 System.out.println("Login to application");
-	
+	 System.out.println("Entering the username change by user 1");
 }
  
  
